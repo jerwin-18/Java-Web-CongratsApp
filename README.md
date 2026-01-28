@@ -12,7 +12,7 @@ git clone https://github.com/sampathshivakumar/Java-Web-Apps.git
 
 ![7](https://github.com/sampathshivakumar/Java-Web-Apps/assets/119833411/64ae9228-19f5-488e-aacf-cf6adcbf0972)
 
-### Create a package using mvn cmd.
+### Create a hello world package using mvn cmd.
 ```
 mvn clean package 
 
